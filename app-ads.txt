@@ -1,4 +1,4 @@
-# CAS.ai Updated Mar 18, 2025
+# obrii.eu Updated Mar 18, 2025
 OwnerDomain=obrii.eu
 obrii.eu, 922e6092, DIRECT
 #=== GoogleAds Jan 10, 2025
