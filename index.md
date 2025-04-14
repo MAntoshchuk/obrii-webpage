@@ -1,4 +1,7 @@
 ---
+layout: default
+---
+---
 # Welcome to Void Vanguard
 
 [![Privacy Policy](https://img.shields.io/badge/Privacy_Policy-4285F4?style=for-the-badge&logoColor=white)](privacy_policy.md)
