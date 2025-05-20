@@ -65,7 +65,7 @@ Deleting your data will:
 * Remove your account from our systems
 * Prevent recovery of your game state in the future
 
-For any questions about our data practices or deletion requests, please contact us at privacy@stellarnexusgames.com.
+For any questions about our data practices or deletion requests, please contact us at mykyta.antoshchuk@obrii.eu.
 
 ## Third-Party Services
 Void Vanguard: Elite Squad uses third-party services for advertising, analytics, and other functions. These services may collect data as described in their respective privacy policies.
