@@ -10,6 +10,8 @@ layout: default
 
 [![Brainrot Warriors! - Privacy Policy & Data Deletion](https://img.shields.io/badge/Brainrot_Warriors-Privacy_Policy_&_Data_Deletion-FF0000?style=for-the-badge&logoColor=white)](brainrot_warriors/privacy_policy.md)
 
+[![Fashion Bids - Privacy Policy & Data Deletion](https://img.shields.io/badge/Fashion_Bids-Privacy_Policy_&_Data_Deletion-FF0000?style=for-the-badge&logoColor=white)](fashion_bids/privacy_policy.md)
+
 [![app-ads.txt](https://img.shields.io/badge/app--ads.txt-4CAF50?style=for-the-badge&logoColor=white)](app-ads.txt)
 ---
 
