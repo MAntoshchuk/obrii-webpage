@@ -1,10 +1,10 @@
-# Brainrot Warriors! - Privacy Policy & Data Deletion
+# Fashion Bids - Privacy Policy & Data Deletion
 
 ## About Us
-Brainrot Warriors! is developed and published by Obrii. Our team is committed to transparency regarding the data we collect and how we use it to improve your gaming experience.
+Fashion Bids is developed and published by Obrii. Our team is committed to transparency regarding the data we collect and how we use it to improve your gaming experience.
 
 ## Data We Collect
-We collect the following information when you use Brainrot Warriors!:
+We collect the following information when you use Fashion Bids:
 
 ### Location Data
 * **Approximate Location**: We collect your approximate location (country, region) to provide region-specific content, ensure compliance with local regulations, and optimize gameplay experience. This data is shared with our advertising partners to deliver relevant advertisements.
@@ -37,7 +37,7 @@ Your data helps us:
 
 ### How to Request Data Deletion
 If you wish to have your personal data deleted from our systems:
-1. Send an email to **mykyta.antoshchuk@obrii.eu** with the subject line "DATA DELETION REQUEST - Brainrot Warriors!"
+1. Send an email to **mykyta.antoshchuk@obrii.eu** with the subject line "DATA DELETION REQUEST - Fashion Bids"
 2. Include the following information in your email:
    * Your in-game username or player ID
    * The email address associated with your account (if applicable)
@@ -68,6 +68,6 @@ Deleting your data will:
 For any questions about our data practices or deletion requests, please contact us at mykyta.antoshchuk@obrii.eu .
 
 ## Third-Party Services
-Brainrot Warriors! uses third-party services for advertising, analytics, and other functions. These services may collect data as described in their respective privacy policies.
+Fashion Bids uses third-party services for advertising, analytics, and other functions. These services may collect data as described in their respective privacy policies.
 
 *Last Updated: May 20, 2025*
